@@ -17,7 +17,7 @@ Follow this tutorial and setup Angular 17 and verify your environment.
 ### Node.js 
 
 Ensure [Node.js](https://nodejs.org/en/download) is installed on your system and current version is v18.13 or higher. 
-You can install/update it using NVM.  Install NVM and verify with
+You can install/update it using [NVM](https://github.com/nvm-sh/nvm).  Install NVM and verify with
 
     nvm -v
 

@@ -51,7 +51,8 @@ open [http://localhost:4200](http://localhost:4200) to test
 
 ##  Change default component
 
-    edit `src\app\app.component.ts`
+ edit `src\app\app.component.ts`
+
 
     @Component({
      selector: 'app-root',

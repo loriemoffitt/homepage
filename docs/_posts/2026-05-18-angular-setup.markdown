@@ -23,6 +23,8 @@ Verify by running
 
 in the terminal. If not installed, download it from the [Node.js website](https://nodejs.org/en/download).
 
+### TypeScript
+
 Also insure TypeScript version 5.2 or greater is installed.  After installing Node you can now run the following commands to install/update TypeScript
 
 `npm install -g typescript`

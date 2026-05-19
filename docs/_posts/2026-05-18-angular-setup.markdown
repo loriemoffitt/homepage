@@ -29,6 +29,10 @@ Switch to the desired version
 
     nvm use 20
 
+<p align="center" width="100%">
+    <img width="75%" src="/homepage/assets/images/nodejs_install.">
+</p>
+---
 ### TypeScript
 
 Also insure TypeScript version 5.2 or greater is installed.  After installing Node you can now run the following commands to install/update TypeScript

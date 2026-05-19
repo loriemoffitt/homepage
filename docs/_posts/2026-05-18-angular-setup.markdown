@@ -7,9 +7,9 @@ permalink: /2024/06/12/angular_setup.html
 author: Lorie Moffitt
 tags: Angular 17
 ---
-<p align="center" width="100%">
+<!--<p align="center" width="100%">
     <img width="75%" src="/homepage/assets/images/mongodb_logo.jpg">
-</p>
+</p>-->
 ---
 Follow this tutorial and setup Angular 17 and test environment. 
 

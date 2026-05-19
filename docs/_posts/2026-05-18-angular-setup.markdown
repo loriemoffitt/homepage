@@ -33,6 +33,7 @@ Switch to the desired version
     <img width="75%" src="/homepage/assets/images/nodejs_install.jpg">
 </p>
 ---
+
 ### TypeScript
 
 Also insure TypeScript version 5.2 or greater is installed.  After installing Node you can now run the following commands to install/update TypeScript
@@ -47,6 +48,7 @@ verify the version
     <img width="75%" src="/homepage/assets/images/typescript_install.jpg">
 </p>
 ---
+
 ## Install Angular 17
 
     npm install -g @angular/cli 

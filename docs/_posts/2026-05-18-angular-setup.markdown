@@ -30,7 +30,9 @@ Also insure TypeScript version 5.2 or greater is installed.  After installing No
     npm install -g typescript
 
 verify the version
+
     tsc -v
+    
 
 ## Install Angular 17
 

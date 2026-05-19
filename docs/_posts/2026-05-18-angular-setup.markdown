@@ -17,11 +17,11 @@ Follow this tutorial and setup Angular 17 and verify your environment.
 ### Node.js 
 
 Ensure Node.js is installed on your system and current version is v18.13 or higher. 
-You can check to see if you have node instlled by running the following command
+You can check to see if you have node instlled by running the following command in the terminal
 
     node -v
 
-in the terminal. If not installed, download it from the [Node.js website](https://nodejs.org/en/download).
+If not installed, download it from the [Node.js website](https://nodejs.org/en/download).
 
 ### TypeScript
 

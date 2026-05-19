@@ -32,7 +32,7 @@ Also insure TypeScript version 5.2 or greater is installed.  After installing No
 verify the version
 `tsc -v`
 
-## Now ready to install Angular 17
+## Install Angular 17
 
 `npm install -g @angular/cli`
 
@@ -45,19 +45,18 @@ verify the version
 
 `ng serve`
 
-open 
-[http://localhost:4200](http://localhost:4200)
+open [http://localhost:4200](http://localhost:4200) to test
 
-##  Make a change in default component
+##  Change default component
 
-``@Component({
+```@Component({
  selector: 'app-root',
  template: `<h1>Hello Angular 17!</h1>`,
  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
  title = 'first-app';
-}``
+}```
 
 Save changes and see them live, no need to restart server.
 

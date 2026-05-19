@@ -49,14 +49,14 @@ open [http://localhost:4200](http://localhost:4200) to test
 
 ##  Change default component
 
-```@Component({
- selector: 'app-root',
- template: `<h1>Hello Angular 17!</h1>`,
- styleUrls: ['./app.component.css']
-})
-export class AppComponent {
- title = 'first-app';
-}```
+    @Component({
+     selector: 'app-root',
+     template: `<h1>Hello Angular 17!</h1>`,
+     styleUrls: ['./app.component.css']
+    })
+    export class AppComponent {
+     title = 'first-app';
+    }
 
 Save changes and see them live, no need to restart server.
 

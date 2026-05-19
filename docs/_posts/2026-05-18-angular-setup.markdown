@@ -14,6 +14,9 @@ tags: Angular 17
 Follow this tutorial and setup Angular 17 and verify your environment. 
 
 ## Requirements
+
+---
+
 ### Node.js 
 
 Ensure [Node.js](https://nodejs.org/en/download) is installed on your system and current version is v18.13 or higher. 
@@ -62,12 +65,26 @@ verify the version
 
     ng serve
 
+<p align="center" width="100%">
+    <img width="75%" src="/homepage/assets/images/angular_install.jpg">
+</p>
+---
+
 open [http://localhost:4200](http://localhost:4200) to test
+
+<p align="center" width="100%">
+    <img width="75%" src="/homepage/assets/images/localhost.jpg">
+</p>
+---
 
 ##  Change default component
 
- edit `src\app\app.component.ts`
+ Use Vi or Nano to edit `src\app\app.component.ts`
 
+<p align="center" width="100%">
+    <img width="75%" src="/homepage/assets/images/edit_component.jpg">
+</p>
+---
 
     @Component({
      selector: 'app-root',
@@ -79,6 +96,11 @@ open [http://localhost:4200](http://localhost:4200) to test
     }
 
 Save changes and see them live, no need to restart server.
+
+<p align="center" width="100%">
+    <img width="75%" src="/homepage/assets/images/refresh.jpg">
+</p>
+---
 
 [Angular Website](https://angular.dev/tutorials/first-app)
 

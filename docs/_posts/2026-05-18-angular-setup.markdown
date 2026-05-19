@@ -14,10 +14,13 @@ tags: Angular 17
 Follow this tutorial and setup Angular 17 and test environment. 
 
 ## Requirements
+### Node.js 
 
 Ensure Node.js is installed on your system and current version is v18.13 or higher. 
 Verify by running 
+
 `node -v`
+
 in the terminal. If not installed, download it from the [Node.js website](https://nodejs.org/en/download).
 
 Also insure TypeScript version 5.2 or greater is installed.  After installing Node you can now run the following commands to install/update TypeScript

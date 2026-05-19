@@ -30,7 +30,7 @@ Switch to the desired version
     nvm use 20
 
 <p align="center" width="100%">
-    <img width="75%" src="/homepage/assets/images/nodejs_install.">
+    <img width="75%" src="/homepage/assets/images/nodejs_install.jpg">
 </p>
 ---
 ### TypeScript

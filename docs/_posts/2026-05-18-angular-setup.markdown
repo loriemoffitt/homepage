@@ -43,7 +43,10 @@ verify the version
 
     tsc -v
     
-
+<p align="center" width="100%">
+    <img width="75%" src="/homepage/assets/images/typescript_install.jpg">
+</p>
+---
 ## Install Angular 17
 
     npm install -g @angular/cli 

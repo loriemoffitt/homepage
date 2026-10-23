@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<h2>Tutorials</h2>
+<h2>Tutorials b lah</h2>
 <ul>
   {% for post in site.posts %}
     <li>
